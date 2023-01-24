@@ -50,4 +50,4 @@ DEEP 문서는 개별 브런치에 작성하고 논의를 마친 후에 메인 �
 ### 한글
 
 - [Hype Driven Development - 설레발 주도 개발](https://lazygyu.net/blog/hype_driven_development)
-- [뱅크샐러드의 특별한 스펙, '테크 스펙' | 뱅크샐러드](https://blog.banksalad.com/tech/we-work-by-tech-spec/)
+- [뱅크샐러드의 특별한 스펙, '테크 스펙'](https://blog.banksalad.com/tech/we-work-by-tech-spec/)
